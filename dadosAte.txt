@@ -1,0 +1,27 @@
+44 
+16 
+GOL
+44
+15
+LATAM
+44 
+10 
+American Airlines
+43 
+33 
+GOL
+47 
+36 
+LATAM
+49 
+39 
+AZUL
+43 
+14 
+GOL
+47 
+50 
+LATAM
+49 
+5 
+AZUL
